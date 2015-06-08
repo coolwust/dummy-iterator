@@ -1,0 +1,17 @@
+{
+    "name": "dummy-iterator",
+    "version": "1.0.0",
+    "description": "a dummy iterator",
+    "keywords": ["dummy", "iterator"],
+    "license": "MIT",
+    "homepage": "https://github.com/coolwust/dummy-iterator",
+    "bug": "https://github.com/coolwust/dummy-iterator/issues",
+    "author": {
+        "name": "coolwust",
+        "email": "coolwust@gmail.com"
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=0.10"
+    }
+}
